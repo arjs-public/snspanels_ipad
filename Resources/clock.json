@@ -1,0 +1,125 @@
+{
+    "buttons": [
+        {
+            "title": "Start Play",
+            "command": "startPlayclock",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Start Game",
+            "command": "startClock",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Stop Play",
+            "command": "stopPlayclock",
+            "color": "yellow",
+            "background": "red"
+        },
+        {
+            "title": "Stop Game",
+            "command": "stopClock",
+            "color": "yellow",
+            "background": "red"
+        },
+        {
+            "title": "Game +1 min",
+            "command": "plusMinute",
+            "color": "white",
+            "background": "brown"
+        },
+        {
+            "title": "Game +10 sec",
+            "command": "plus10Second",
+            "color": "white",
+            "background": "brown"
+        },
+        {
+            "title": "Game +1 sec",
+            "command": "plus1Second",
+            "color": "white",
+            "background": "brown"
+        },
+        {
+            "title": "Game -1 min",
+            "command": "minusMinute",
+            "color": "black",
+            "background": "orange"
+        },
+        {
+            "title": "Game -10 sec",
+            "command": "minus10Second",
+            "color": "black",
+            "background": "orange"
+        },
+        {
+            "title": "Game -1 sec",
+            "command": "minus1Second",
+            "color": "black",
+            "background": "orange"
+        },
+        {
+            "title": "Set Play 25s",
+            "command": "reset25Playclock",
+            "color": "white",
+            "background": "gray"
+        },
+        {
+            "title": "Set Play 30s",
+            "command": "reset30Playclock",
+            "color": "white",
+            "background": "gray"
+        },
+        {
+            "title": "Set Play 40s",
+            "command": "reset40Playclock",
+            "color": "white",
+            "background": "gray"
+        },
+        {
+            "title": "Set Game 12m",
+            "command": "reset12Clock",
+            "color": "white",
+            "background": "purple"
+        },
+        {
+            "title": "Set Game 15m",
+            "command": "reset15Clock",
+            "color": "white",
+            "background": "purple"
+        },
+        {
+            "title": "Set Game 30m",
+            "command": "reset30Clock",
+            "color": "white",
+            "background": "purple"
+        },
+        {
+            "title": "Reset Play",
+            "command": "resetPlayclock",
+            "color": "white",
+            "background": "gray"
+        },
+        {
+            "title": "Show/Hide Playclock",
+            "command": "playclockShow",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Show/Hide Gameclock",
+            "command": "gameclockShow",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Reset Game",
+            "command": "resetClock",
+            "color": "white",
+            "background": "purple"
+        }
+    ],
+    "pattern": [2, 2, 0, 3, 3, 0, 6, 0, 4]
+}

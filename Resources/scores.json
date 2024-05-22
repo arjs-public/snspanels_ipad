@@ -1,0 +1,120 @@
+{
+    "buttons": [
+        {
+            "title": "Show/Hide L.o.S",
+            "command": "losShow",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Show/Hide Playclock",
+            "command": "playclockShow",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Show/Hide Downs",
+            "command": "downShow",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Show/Hide To Go",
+            "command": "distanceShow",
+            "color": "black",
+            "background": "green"
+        },
+        
+        {
+            "title": "Guest TD",
+            "command": "touchdownTeam2",
+            "color": "white",
+            "background": "red"
+        },
+        {
+            "title": "Home TD",
+            "command": "touchdownTeam1",
+            "color": "white",
+            "background": "blue"
+        },
+        
+        {
+            "title": "Guest FG",
+            "command": "fieldgoalTeam2",
+            "color": "white",
+            "background": "red"
+        },
+        {
+            "title": "Home FG",
+            "command": "fieldgoalTeam1",
+            "color": "white",
+            "background": "blue"
+        },
+        
+        {
+            "title": "Guest PAT",
+            "command": "patTeam2",
+            "color": "white",
+            "background": "red"
+        },
+        {
+            "title": "Home PAT",
+            "command": "patTeam1",
+            "color": "white",
+            "background": "blue"
+        },
+        
+        {
+            "title": "Guest 2Pts",
+            "command": "twopointTeam2",
+            "color": "white",
+            "background": "red"
+        },
+        {
+            "title": "Home 2Pts",
+            "command": "twopointTeam1",
+            "color": "white",
+            "background": "blue"
+        },
+        
+        {
+            "title": "Guest Safety",
+            "command": "safetyTeam2",
+            "color": "white",
+            "background": "red"
+        },
+        {
+            "title": "Home Safety",
+            "command": "safetyTeam1",
+            "color": "white",
+            "background": "blue"
+        },
+        
+        {
+            "title": "Guest Pt +1",
+            "command": "plusTeam2",
+            "color": "white",
+            "background": "brown"
+        },
+        {
+            "title": "Home Pt +1",
+            "command": "plusTeam1",
+            "color": "white",
+            "background": "brown"
+        },
+        
+        {
+            "title": "Guest Pt -1",
+            "command": "minusTeam2",
+            "color": "white",
+            "background": "orange"
+        },
+        {
+            "title": "Home Pt -1",
+            "command": "minusTeam1",
+            "color": "white",
+            "background": "orange"
+        }
+    ],
+    "pattern": [4, 2, 2, 2, 2, 2, 2, 2]
+}

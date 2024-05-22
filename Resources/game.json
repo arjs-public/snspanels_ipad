@@ -1,0 +1,136 @@
+{
+    "buttons": [
+        {
+            "title": "Ball Guest",
+            "command": "ballbesitzTeam2",
+            "color": "white",
+            "background": "red"
+        },
+        {
+            "title": "Next Quarter",
+            "command": "countquarter",
+            "color": "black",
+            "background": "white"
+        },
+        {
+            "title": "Flag",
+            "command": "flag",
+            "color": "red",
+            "background": "yellow"
+        },
+        {
+            "title": "Ball Home",
+            "command": "ballbesitzTeam1",
+            "color": "white",
+            "background": "blue"
+        },
+        
+        {
+            "title": "1st & 10",
+            "command": "firstDown,distanceShow:True",
+            "color": "black",
+            "background": "cyan"
+        },
+        {
+            "title": "Show/Hide Downs",
+            "command": "downShow",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Show/Hide To Go",
+            "command": "distanceShow",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Next Down",
+            "command": "distanceShow:False,countDowns",
+            "color": "black",
+            "background": "cyan"
+        },
+        
+        {
+            "title": "To Go +10y",
+            "command": "yardsplus10",
+            "color": "white",
+            "background": "brown"
+        },
+        {
+            "title": "To Go +5y",
+            "command": "yardsplus5",
+            "color": "white",
+            "background": "brown"
+        },
+        {
+            "title": "To Go +1y",
+            "command": "yardsplus1",
+            "color": "white",
+            "background": "brown"
+        },
+        
+        {
+            "title": "To Go -10y",
+            "command": "yardsminus10",
+            "color": "white",
+            "background": "orange"
+        },
+        {
+            "title": "To Go -5y",
+            "command": "yardsminus5",
+            "color": "white",
+            "background": "orange"
+        },
+        {
+            "title": "To Go -1y",
+            "command": "yardsminus1",
+            "color": "white",
+            "background": "orange"
+        },
+        
+        {
+            "title": "Guest TO",
+            "command": "countTimeoutTeam2",
+            "color": "white",
+            "background": "red"
+        },
+        {
+            "title": "Show/Hide L.o.S",
+            "command": "losShow",
+            "color": "black",
+            "background": "green"
+        },
+        {
+            "title": "Home TO",
+            "command": "countTimeoutTeam1",
+            "color": "white",
+            "background": "blue"
+        },
+        
+        {
+            "title": "Guest TO +1",
+            "command": "plusTimeoutTeam2",
+            "color": "white",
+            "background": "brown"
+        },
+        {
+            "title": "Guest TO -1",
+            "command": "minusTimeoutTeam2",
+            "color": "white",
+            "background": "orange"
+        },
+        {
+            "title": "Home TO +1",
+            "command": "plusTimeoutTeam1",
+            "color": "white",
+            "background": "brown"
+        },
+        {
+            "title": "Home TO -1",
+            "command": "minusTimeoutTeam1",
+            "color": "white",
+            "background": "orange"
+        }
+    ],
+    "pattern": [4, 0, 4, 3, 3, 0, 3, 4]
+}
